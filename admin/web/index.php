@@ -1,4 +1,6 @@
-
+<?php 
+include('header.php');
+?>
 			<div id="page-wrapper">
 				<div class="graphs">
 					<div class="col_3">

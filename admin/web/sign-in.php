@@ -55,7 +55,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<span class="checkbox1">
 									 <label class="checkbox"><input type="checkbox" name="checkbox" checked="">Forgot Password ?</label>
 								</span>
-								<p><a href="#">Click Here</a> </p>
+								<p><a href="sign-up.php">Click Here for sign Up</a> </p>
 								<div class="clearfix"> </div>
 							</div>
 							<form>
