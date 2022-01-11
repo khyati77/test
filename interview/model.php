@@ -155,11 +155,7 @@ class model
 		}
 		
 		$upd.=" where 1=1"; //1=1 quey continue
-		$warr_col=array_keys($wher
-
-
-
-			e);
+		$warr_col=array_keys($where);
 		$warr_values=array_values($where);
 		$i=0;
 		foreach($where as $w)
